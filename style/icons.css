@@ -1,0 +1,16 @@
+.icon-direction::before {
+    content: '\f277';
+    font-weight: 300;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.icon-shop::before {
+    content: '\f217';
+    font-weight: 300;
+}
+
+.icon-menu::before{
+    content: '\f0c9';
+    font-weight: 400;
+}
